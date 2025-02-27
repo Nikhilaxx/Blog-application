@@ -22,11 +22,10 @@ A simple and fully functional blog application built using **PHP & MySQL**. This
    git clone https://github.com/Nikhilaxx/Blog-application.git
    cd Blog-application
 2. **Set up the database**
-   -Create a MySQL database.
+   Create a MySQL database.
    Update the database credentials in config/database.php.
 3. **Run the application**
-   Start XAMPP (Apache & MySQL)
-   ```bash
+   Start XAMPP (Apache & MySQL) and go to 
    http://localhost/blog/
    
    
