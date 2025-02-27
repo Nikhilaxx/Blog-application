@@ -1,0 +1,10 @@
+# Ignore environment files
+config/constants.php
+
+# Ignore system files
+.vscode/
+.DS_Store
+
+# Ignore dependencies 
+vendor/
+node_modules/
